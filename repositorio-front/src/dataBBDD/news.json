@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Lanzamiento de un nuevo cohete espacial",
+      "description": "La compañía aeroespacial SpaceX lanzó un cohete revolucionario.",
+      "date": "2024-11-18",
+      "content": "El cohete Falcon Heavy de SpaceX despegó exitosamente desde Cabo Cañaveral, marcando un hito en la exploración espacial. Este lanzamiento transportó un satélite de comunicaciones avanzado a órbita.",
+      "author": "Ana Martínez",
+      "archiveDate": "2024-11-19"
+    },
+    {
+      "title": "Aumento del salario mínimo en varios países",
+      "description": "Varios países anuncian un aumento en el salario mínimo para 2024.",
+      "date": "2024-11-17",
+      "content": "En un esfuerzo por combatir la inflación, gobiernos de distintas naciones han decidido aumentar el salario mínimo. Esta medida busca mejorar la calidad de vida de millones de trabajadores.",
+      "author": "Carlos Gómez",
+      "archiveDate": null
+    },
+    {
+      "title": "Descubrimiento de una nueva especie marina",
+      "description": "Científicos encuentran una especie desconocida en el fondo del océano.",
+      "date": "2024-11-16",
+      "content": "Un equipo de investigadores de la Universidad de Tokio identificó una nueva especie de medusa en el océano Pacífico. Este descubrimiento destaca la importancia de la conservación marina.",
+      "author": "Lucía Hernández",
+      "archiveDate": "2024-11-18"
+    },
+    {
+      "title": "Tecnología 6G en desarrollo",
+      "description": "Se acelera el desarrollo de la red 6G en Asia y Europa.",
+      "date": "2024-11-15",
+      "content": "Empresas tecnológicas han iniciado pruebas para implementar la tecnología 6G, que promete velocidades 100 veces superiores al 5G. Esta tecnología podría transformar las comunicaciones globales.",
+      "author": "Miguel Santos",
+      "archiveDate": null
+    },
+    {
+      "title": "Conferencia mundial sobre cambio climático",
+      "description": "Líderes globales se reúnen para discutir soluciones al cambio climático.",
+      "date": "2024-11-14",
+      "content": "En la cumbre celebrada en Ginebra, los líderes acordaron medidas más estrictas para reducir las emisiones de carbono. La reunión enfatizó la urgencia de actuar antes de 2030.",
+      "author": "Elena Ríos",
+      "archiveDate": "2024-11-16"
+    }
+]
+  

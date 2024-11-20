@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "673d08d29102e0d0d64645a8"
+  },
+  "title": "Lanzamiento de un nuevo cohete espacial",
+  "description": "La compañía aeroespacial SpaceX lanzó un cohete revolucionario.",
+  "date": {
+    "$date": "2024-11-18T00:00:00.000Z"
+  },
+  "content": "El cohete Falcon Heavy de SpaceX despegó exitosamente desde Cabo Cañaveral, marcando un hito en la exploración espacial. Este lanzamiento transportó un satélite de comunicaciones avanzado a órbita.",
+  "author": "Ana Martínez"
+},
+{
+  "_id": {
+    "$oid": "673d0adb9102e0d0d64645a9"
+  },
+  "title": "Aumento del salario mínimo en varios países",
+  "description": "Varios países anuncian un aumento en el salario mínimo para 2024.",
+  "date": {
+    "$date": "2024-11-17T00:00:00.000Z"
+  },
+  "content": "En un esfuerzo por combatir la inflación, gobiernos de distintas naciones han decidido aumentar el salario mínimo. Esta medida busca mejorar la calidad de vida de millones de trabajadores.",
+  "author": "Carlos Gómez",
+  "archiveDate": {
+    "$date": "2024-11-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673e4cc8ab1f867857ceb6af"
+  },
+  "title": "Tecnología 6G en desarrollo",
+  "content": "Empresas tecnológicas han iniciado pruebas para implementar la tecnología 6G, que promete velocidades 100 veces superiores al 5G. Esta tecnología podría transformar las comunicaciones globales.",
+  "description": "Se acelera el desarrollo de la red 6G en Asia y Europa.",
+  "author": "Miguel Santos",
+  "date": "2024-11-20T20:55:36.706Z"
+}]
