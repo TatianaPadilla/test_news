@@ -9,6 +9,6 @@ Asegúrate de tener instalados los siguientes programas:
 - Git (para clonar el repositorio)
 
 ## **Estructura del proyecto**
-- `/frontend`: Contiene el código del cliente, desarrollado en React.
-- `/backend`: Contiene el servidor API, desarrollado en Node.js.
-- `/database`: Contiene un dump de la base de datos MongoDB para inicializar datos de ejemplo.
+- `/respositorio-front`: Contiene el código del cliente, desarrollado en React.
+- `/reppsitorio-back`: Contiene el servidor API, desarrollado en Node.js.
+- `/repositorio-database`: Contiene un dump de la base de datos MongoDB para inicializar datos de ejemplo.
